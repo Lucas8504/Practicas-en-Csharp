@@ -1,0 +1,8 @@
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.AssemblyReference.cache
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\obj\Debug\Holamundo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\bin\Debug\Holamundo.exe.config
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\bin\Debug\Holamundo.exe
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\bin\Debug\Holamundo.pdb
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\obj\Debug\Holamundo.exe
+C:\Users\Lucas\procsharp\Holamundo\Holamundo\obj\Debug\Holamundo.pdb
