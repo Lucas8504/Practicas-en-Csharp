@@ -1,0 +1,16 @@
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\bin\Debug\HelloWorldGrafico.exe.config
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\bin\Debug\HelloWorldGrafico.exe
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\bin\Debug\HelloWorldGrafico.pdb
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\MainWindow.g.cs
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\App.g.cs
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico_MarkupCompile.cache
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico_MarkupCompile.lref
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\MainWindow.baml
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.g.resources
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.Properties.Resources.resources
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.GenerateResource.cache
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.exe
+C:\Users\Lucas\csharpya\HelloWorldGrafico\HelloWorldGrafico\obj\Debug\HelloWorldGrafico.pdb

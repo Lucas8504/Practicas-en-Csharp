@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\bin\Debug\Recursividad2.exe.config
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\bin\Debug\Recursividad2.exe
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\bin\Debug\Recursividad2.pdb
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\obj\Debug\Recursividad2.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\obj\Debug\Recursividad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\obj\Debug\Recursividad2.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\obj\Debug\Recursividad2.exe
+C:\Users\Lucas\csharpya\Recursividad2\Recursividad2\obj\Debug\Recursividad2.pdb

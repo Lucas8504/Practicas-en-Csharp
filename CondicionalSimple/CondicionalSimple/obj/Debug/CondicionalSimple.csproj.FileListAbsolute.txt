@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\obj\Debug\CondicionalSimple.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\obj\Debug\CondicionalSimple.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\obj\Debug\CondicionalSimple.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\bin\Debug\CondicionalSimple.exe.config
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\bin\Debug\CondicionalSimple.exe
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\bin\Debug\CondicionalSimple.pdb
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\obj\Debug\CondicionalSimple.exe
+C:\Users\Lucas\csharpya\CondicionalSimple\CondicionalSimple\obj\Debug\CondicionalSimple.pdb

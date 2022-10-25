@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\bin\Debug\EstructuraRepetitivaWhile3.exe.config
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\bin\Debug\EstructuraRepetitivaWhile3.exe
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\bin\Debug\EstructuraRepetitivaWhile3.pdb
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.exe
+C:\Users\Lucas\csharpya\EstructuraRepetitivaWhile3\EstructuraRepetitivaWhile3\obj\Debug\EstructuraRepetitivaWhile3.pdb

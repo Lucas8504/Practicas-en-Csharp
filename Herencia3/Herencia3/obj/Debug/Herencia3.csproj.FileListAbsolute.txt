@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\bin\Debug\Herencia3.exe.config
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\bin\Debug\Herencia3.exe
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\bin\Debug\Herencia3.pdb
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\obj\Debug\Herencia3.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\obj\Debug\Herencia3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\obj\Debug\Herencia3.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\obj\Debug\Herencia3.exe
+C:\Users\Lucas\csharpya\Herencia3\Herencia3\obj\Debug\Herencia3.pdb

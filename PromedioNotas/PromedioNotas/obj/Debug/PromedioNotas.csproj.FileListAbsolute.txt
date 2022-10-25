@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\bin\Debug\PromedioNotas.exe.config
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\bin\Debug\PromedioNotas.exe
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\bin\Debug\PromedioNotas.pdb
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\obj\Debug\PromedioNotas.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\obj\Debug\PromedioNotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\obj\Debug\PromedioNotas.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\obj\Debug\PromedioNotas.exe
+C:\Users\Lucas\csharpya\PromedioNotas\PromedioNotas\obj\Debug\PromedioNotas.pdb

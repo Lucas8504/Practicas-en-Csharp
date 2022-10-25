@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\bin\Debug\VectorMayorElemento.exe.config
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\bin\Debug\VectorMayorElemento.exe
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\bin\Debug\VectorMayorElemento.pdb
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\obj\Debug\VectorMayorElemento.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\obj\Debug\VectorMayorElemento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\obj\Debug\VectorMayorElemento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\obj\Debug\VectorMayorElemento.exe
+C:\Users\Lucas\csharpya\VectorMayorElemento\VectorMayorElemento\obj\Debug\VectorMayorElemento.pdb

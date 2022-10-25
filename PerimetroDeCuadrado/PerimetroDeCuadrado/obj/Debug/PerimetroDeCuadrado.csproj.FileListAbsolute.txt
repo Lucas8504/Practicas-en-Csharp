@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\bin\Debug\PerimetroDeCuadrado.exe.config
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\bin\Debug\PerimetroDeCuadrado.exe
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\bin\Debug\PerimetroDeCuadrado.pdb
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\obj\Debug\PerimetroDeCuadrado.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\obj\Debug\PerimetroDeCuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\obj\Debug\PerimetroDeCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\obj\Debug\PerimetroDeCuadrado.exe
+C:\Users\Lucas\csharpya\PerimetroDeCuadrado\PerimetroDeCuadrado\obj\Debug\PerimetroDeCuadrado.pdb

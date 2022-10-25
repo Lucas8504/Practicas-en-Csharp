@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\bin\Debug\ListasTipoCola1.exe.config
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\bin\Debug\ListasTipoCola1.exe
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\bin\Debug\ListasTipoCola1.pdb
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\obj\Debug\ListasTipoCola1.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\obj\Debug\ListasTipoCola1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\obj\Debug\ListasTipoCola1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\obj\Debug\ListasTipoCola1.exe
+C:\Users\Lucas\csharpya\ListasTipoCola1\ListasTipoCola1\obj\Debug\ListasTipoCola1.pdb

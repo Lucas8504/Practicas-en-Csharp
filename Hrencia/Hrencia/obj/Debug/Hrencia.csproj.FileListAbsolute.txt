@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\bin\Debug\Hrencia.exe.config
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\bin\Debug\Hrencia.exe
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\bin\Debug\Hrencia.pdb
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\obj\Debug\Hrencia.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\obj\Debug\Hrencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\obj\Debug\Hrencia.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\obj\Debug\Hrencia.exe
+C:\Users\Lucas\csharpya\Hrencia\Hrencia\obj\Debug\Hrencia.pdb

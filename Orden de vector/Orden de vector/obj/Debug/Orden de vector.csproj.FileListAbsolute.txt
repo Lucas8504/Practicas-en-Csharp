@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\bin\Debug\Orden de vector.exe.config
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\bin\Debug\Orden de vector.exe
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\bin\Debug\Orden de vector.pdb
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\obj\Debug\Orden de vector.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\obj\Debug\Orden de vector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\obj\Debug\Orden de vector.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\obj\Debug\Orden de vector.exe
+C:\Users\Lucas\csharpya\Orden de vector\Orden de vector\obj\Debug\Orden de vector.pdb

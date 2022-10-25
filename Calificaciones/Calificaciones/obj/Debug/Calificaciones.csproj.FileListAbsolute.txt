@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe.config
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\bin\Debug\Calificaciones.exe
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\bin\Debug\Calificaciones.pdb
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\obj\Debug\Calificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\obj\Debug\Calificaciones.exe
+C:\Users\Lucas\csharpya\Calificaciones\Calificaciones\obj\Debug\Calificaciones.pdb

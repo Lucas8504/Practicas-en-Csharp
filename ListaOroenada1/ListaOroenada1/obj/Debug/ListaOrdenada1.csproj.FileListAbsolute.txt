@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\bin\Debug\ListaOroenada1.exe.config
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\bin\Debug\ListaOroenada1.exe
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\bin\Debug\ListaOroenada1.pdb
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\obj\Debug\ListaOrdenada1.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\obj\Debug\ListaOrdenada1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\obj\Debug\ListaOrdenada1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\obj\Debug\ListaOroenada1.exe
+C:\Users\Lucas\csharpya\ListaOroenada1\ListaOroenada1\obj\Debug\ListaOroenada1.pdb

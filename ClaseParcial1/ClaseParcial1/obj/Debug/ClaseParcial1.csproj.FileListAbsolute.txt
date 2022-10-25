@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\bin\Debug\ClaseParcial1.exe.config
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\bin\Debug\ClaseParcial1.exe
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\bin\Debug\ClaseParcial1.pdb
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.exe
+C:\Users\Lucas\csharpya\ClaseParcial1\ClaseParcial1\obj\Debug\ClaseParcial1.pdb

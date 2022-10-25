@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Dado\Dado\bin\Debug\Dado.exe.config
+C:\Users\Lucas\csharpya\Dado\Dado\bin\Debug\Dado.exe
+C:\Users\Lucas\csharpya\Dado\Dado\bin\Debug\Dado.pdb
+C:\Users\Lucas\csharpya\Dado\Dado\obj\Debug\Dado.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Dado\Dado\obj\Debug\Dado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Dado\Dado\obj\Debug\Dado.exe
+C:\Users\Lucas\csharpya\Dado\Dado\obj\Debug\Dado.pdb

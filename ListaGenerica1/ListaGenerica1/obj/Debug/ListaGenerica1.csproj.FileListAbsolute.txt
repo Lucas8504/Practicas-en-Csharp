@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\bin\Debug\ListaGenerica1.exe.config
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\bin\Debug\ListaGenerica1.exe
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\bin\Debug\ListaGenerica1.pdb
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\obj\Debug\ListaGenerica1.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\obj\Debug\ListaGenerica1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\obj\Debug\ListaGenerica1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\obj\Debug\ListaGenerica1.exe
+C:\Users\Lucas\csharpya\ListaGenerica1\ListaGenerica1\obj\Debug\ListaGenerica1.pdb

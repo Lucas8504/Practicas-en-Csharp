@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\bin\Debug\Matriz1.exe.config
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\bin\Debug\Matriz1.exe
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\bin\Debug\Matriz1.pdb
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\obj\Debug\Matriz1.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\obj\Debug\Matriz1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\obj\Debug\Matriz1.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\obj\Debug\Matriz1.exe
+C:\Users\Lucas\csharpya\Matriz1\Matriz1\obj\Debug\Matriz1.pdb

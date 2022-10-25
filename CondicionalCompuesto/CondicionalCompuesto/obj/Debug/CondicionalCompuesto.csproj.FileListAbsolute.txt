@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\bin\Debug\CondicionalCompuesto.exe.config
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\bin\Debug\CondicionalCompuesto.exe
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\bin\Debug\CondicionalCompuesto.pdb
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\obj\Debug\CondicionalCompuesto.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\obj\Debug\CondicionalCompuesto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\obj\Debug\CondicionalCompuesto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\obj\Debug\CondicionalCompuesto.exe
+C:\Users\Lucas\csharpya\CondicionalCompuesto\CondicionalCompuesto\obj\Debug\CondicionalCompuesto.pdb

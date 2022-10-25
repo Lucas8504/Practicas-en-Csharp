@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\bin\Debug\ListasTipoPila.exe.config
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\bin\Debug\ListasTipoPila.exe
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\bin\Debug\ListasTipoPila.pdb
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.exe
+C:\Users\Lucas\csharpya\ListasTipoPila\ListasTipoPila\obj\Debug\ListasTipoPila.pdb

@@ -1,0 +1,15 @@
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\bin\Debug\net6.0\CalculoSueldo.exe
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\bin\Debug\net6.0\CalculoSueldo.deps.json
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\bin\Debug\net6.0\CalculoSueldo.runtimeconfig.json
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\bin\Debug\net6.0\CalculoSueldo.dll
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\bin\Debug\net6.0\CalculoSueldo.pdb
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.AssemblyInfoInputs.cache
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.AssemblyInfo.cs
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.dll
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\refint\CalculoSueldo.dll
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.pdb
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\CalculoSueldo.genruntimeconfig.cache
+C:\Users\Lucas\csharpya\CalculoSueldo\CalculoSueldo\obj\Debug\net6.0\ref\CalculoSueldo.dll

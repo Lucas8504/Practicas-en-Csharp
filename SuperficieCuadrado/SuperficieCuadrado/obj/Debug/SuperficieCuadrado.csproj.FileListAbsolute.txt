@@ -1,0 +1,8 @@
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe.config
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.exe
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\bin\Debug\SuperficieCuadrado.pdb
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.csproj.AssemblyReference.cache
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.exe
+C:\Users\Lucas\csharpya\SuperficieCuadrado\SuperficieCuadrado\obj\Debug\SuperficieCuadrado.pdb
