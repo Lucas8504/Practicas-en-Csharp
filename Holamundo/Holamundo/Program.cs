@@ -10,7 +10,12 @@ namespace Holamundo
     {
         static void Main(string[] args)
         {
+            // Holamundo, primer codigo en c#
             Console.WriteLine("hola mundo");
+            /*
+             Este codigo permite mantener la ventana abierta
+             hasta que apretemos enter
+            */
             Console.ReadLine();
         }
     }
