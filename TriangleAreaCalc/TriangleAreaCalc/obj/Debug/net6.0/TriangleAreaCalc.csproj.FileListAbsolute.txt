@@ -1,0 +1,15 @@
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\bin\Debug\net6.0\TriangleAreaCalc.exe
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\bin\Debug\net6.0\TriangleAreaCalc.deps.json
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\bin\Debug\net6.0\TriangleAreaCalc.runtimeconfig.json
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\bin\Debug\net6.0\TriangleAreaCalc.dll
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\bin\Debug\net6.0\TriangleAreaCalc.pdb
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.csproj.AssemblyReference.cache
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.AssemblyInfoInputs.cache
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.AssemblyInfo.cs
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.dll
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\refint\TriangleAreaCalc.dll
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.pdb
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\TriangleAreaCalc.genruntimeconfig.cache
+C:\Users\Lucas\procsharp\TriangleAreaCalc\TriangleAreaCalc\obj\Debug\net6.0\ref\TriangleAreaCalc.dll
