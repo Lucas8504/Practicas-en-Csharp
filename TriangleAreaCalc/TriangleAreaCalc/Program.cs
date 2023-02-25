@@ -12,6 +12,12 @@ namespace TriangleAreaCalculator
             double height;
             double TriangleArea;
 
+
+            Console.WriteLine("Calculadora de area en triangulo");
+            Console.WriteLine(@"  /\ ");
+            Console.WriteLine(@" /  \");
+            Console.WriteLine(@"/____\");
+
             Console.WriteLine("Proporciona la base de tu triangulo");
             userData = Console.ReadLine();
 
