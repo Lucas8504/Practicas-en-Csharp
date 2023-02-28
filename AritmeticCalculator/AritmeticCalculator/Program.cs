@@ -19,7 +19,16 @@ namespace AritmeticCalculator
                 Console.WriteLine("2. Resta");
                 operation = GetIntegerDataFromUser("proporciona la operacion que deseas ejecutar:");
 
+                switch (operation)
+                {
 
+                case 1:
+                    //suma
+                    firsData = GetIntegerDataFromUser("proporciona el primer operando, debe ser entero:");
+                    secondData = GetIntegerDataFromUser("proporciona el segundo operando, debe ser entero:");
+                    Console.WriteLine($"El resultado de {firsData} + {secondData} = {firsData + secondData}");
+
+                }
 
             }
             
