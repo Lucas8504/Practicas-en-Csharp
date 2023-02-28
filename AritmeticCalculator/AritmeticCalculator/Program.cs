@@ -16,15 +16,17 @@ namespace AritmeticCalculator
 
                 Console.WriteLine("Biemvenido a tu calculadora");
                 Console.WriteLine("1. Suma");
-            Console.WriteLine("2. Resta");
-            operation = GetIntegerDataFromUser("proporciona la operacion que deseas ejecutar:");
+                Console.WriteLine("2. Resta");
+                operation = GetIntegerDataFromUser("proporciona la operacion que deseas ejecutar:");
+
+
+
             }
             
             private static int GetIntegerDataFromUser(string message)
             {
             string userData;
-            int data = 0;
-            bool isDataValid = false;
+            int data = 0;            bool isDataValid = false;
             while(!isDataValid)
             {
 
