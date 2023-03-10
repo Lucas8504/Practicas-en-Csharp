@@ -24,13 +24,29 @@ namespace AritmeticCalculator
 
                 case 1:
                     //suma
-                    firsData = GetIntegerDataFromUser("proporciona el primer operando, debe ser entero:");
-                    secondData = GetIntegerDataFromUser("proporciona el segundo operando, debe ser entero:");
+                    firsData = GetIntegerDataFromUser("Proporciona el primer operando, debe ser entero:");
+                    secondData = GetIntegerDataFromUser("Proporciona el segundo operando, debe ser entero:");
                     Console.WriteLine($"El resultado de {firsData} + {secondData} = {firsData + secondData}");
+                    break;
+
+
+                case 2:
+                    //Resta
+                    firsData = GetIntegerDataFromUser("proporciona el primer operando, debe ser entero:");
+                    secondData = GetIntegerDataFromUser("Proporciona el segundo operdando, debe ser entero");
+                    Console.WriteLine($"El resultado de {firsData} + {secondData} = {firsData - secondData}");
+                    break;
+                default:
+                    Console.WriteLine("la opcion seleccionada no existe.");
+                    break;
+
 
                 }
 
-            }
+            Console.WriteLine("Precione cualquier tecla para salir...");
+            Console.Read();
+
+            } 
             
             private static int GetIntegerDataFromUser(string message)
             {

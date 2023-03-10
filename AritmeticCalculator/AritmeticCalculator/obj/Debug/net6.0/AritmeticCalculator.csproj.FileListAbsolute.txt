@@ -1,0 +1,15 @@
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\bin\Debug\net6.0\AritmeticCalculator.exe
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\bin\Debug\net6.0\AritmeticCalculator.deps.json
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\bin\Debug\net6.0\AritmeticCalculator.runtimeconfig.json
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\bin\Debug\net6.0\AritmeticCalculator.dll
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\bin\Debug\net6.0\AritmeticCalculator.pdb
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.csproj.AssemblyReference.cache
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.AssemblyInfoInputs.cache
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.AssemblyInfo.cs
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.dll
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\refint\AritmeticCalculator.dll
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.pdb
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\AritmeticCalculator.genruntimeconfig.cache
+C:\Users\Lucas\procsharp\AritmeticCalculator\AritmeticCalculator\obj\Debug\net6.0\ref\AritmeticCalculator.dll
